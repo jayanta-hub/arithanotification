@@ -4,11 +4,11 @@ import { Grid } from '@mui/material';
 import Navbar from './navbar/Navbar';
 
 const PageLayout = () => (
-  <Grid container>
-    <Grid item md={3} lg={3} sm={3}>
+  <Grid container spacing={2}>
+    <Grid item md={2} lg={2} sm={2}>
       <Navbar />
     </Grid>
-    <Grid item md={12} lg={12} sm={12}>
+    <Grid item md={10} lg={10} sm={10}>
       <Outlet />
     </Grid>
   </Grid>
