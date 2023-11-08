@@ -104,6 +104,9 @@ const Login = () => {
                 <Link href="#" variant="body2">
                   {"Don't have an account? Sign Up"}
                 </Link>
+                <Link href="#" variant="body2">
+                  {"Don't have an account? Sign Up"}
+                </Link>
               </Grid>
             </Grid>
           </Box>
