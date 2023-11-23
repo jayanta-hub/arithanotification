@@ -5,7 +5,6 @@ const Dashboard = () => {
   return (
     <Box
       component="div"
-      // className="wrapper"
       sx={{
         display: 'flex',
         justifyContent: 'center',
@@ -17,17 +16,6 @@ const Dashboard = () => {
       <Typography variant="h6" className="linkText">
         Dashboard
       </Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
-      <Typography variant="h6">Dashboard</Typography>
       <Typography variant="h6">Dashboard</Typography>
       <Typography variant="h6">Dashboard</Typography>
       <Typography variant="h6">Dashboard</Typography>
